@@ -1,0 +1,12 @@
+form{
+    width: 300px;
+    margin: auto;
+    color: blue;
+}
+form input[type=submit]{
+    background: chartreuse;
+    color: darkblue;
+    border: solid 1px rgb(0, 17, 255);
+    padding: 2px 6px 2px 6px;
+    border-radius: 5px;
+}
